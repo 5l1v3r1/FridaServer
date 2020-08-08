@@ -1,0 +1,5 @@
+frida
+frida-tools
+django-cors-headers
+django
+colorlog
